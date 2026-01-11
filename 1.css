@@ -1,0 +1,125 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+Body {
+    background-color: rgb(52, 52, 52);
+    background-size: cover;
+}
+
+header h1 {
+    color: rgb(46, 134, 216);
+    text-align: center;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 10px;
+    text-align: center;
+    justify-content: space-between;
+}
+
+main {
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    justify-content: center;
+}
+
+
+h2 {
+    color: #35424a;
+}
+
+.Bio {
+    margin-top: 20px;
+    display: flex;
+    font-size: 2em; 
+    text-align: center;
+    justify-content: center;
+    color: black;
+}
+
+.ss {
+    margin-right: 5%;
+    text-align: center;
+    background-color: rgb(27, 178, 195);
+    border: solid rgba(0, 0, 0, 0.1);
+    border-radius: 5%;
+    width: 15%;
+}
+
+.Bio img {
+    width: 100px;
+    height: auto;
+    display: block;
+    margin: 50px auto;
+    text-align: center;
+    background-image:100px; 
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: #858585;
+}
+
+.pp {
+    text-align: center;
+    font-size: 2em;
+    color: black;
+}
+
+h2 {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+
+.zz {
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
+
+.ff {
+    text-align: center;
+    border-radius: 50%;
+    color: aliceblue;
+} 
+
+.gg {
+    justify-content: space-between;
+    bottom: unset;
+    text-align: right;
+    padding: 20px 10%;
+    list-style: none;
+    text-decoration: none;  
+    text-align: center;
+}
+
+.rr {
+    justify-content: space-between;
+    bottom: unset;
+    text-align: right;
+    padding: 20px 10%;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.ii {
+    color:blue;
+    text-align: center;
+    padding: 20px; 
+}
+
+.oo {
+    color: white;
+}
+
+
